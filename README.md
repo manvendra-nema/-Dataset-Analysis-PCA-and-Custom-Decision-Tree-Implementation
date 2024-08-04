@@ -1,5 +1,4 @@
-# 🌳 MNIST Dataset - PCA and Decision Tree Analysis
-
+# 🌳 MNIST Dataset - PCA and Decision Custom-Decision-Tree-Implementation
 Welcome to the MNIST Dataset project focusing on classes 0, 1, and 2. This repository contains code and documentation to perform a series of tasks on the MNIST dataset, specifically reducing dimensions using PCA and implementing a decision tree without using libraries that automatically handle the fitting and prediction processes. Let's get started! 🚀
 
 ## 📁 Dataset
